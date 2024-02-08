@@ -1,4 +1,6 @@
-test {
-    background-color: yellow;
-    font-size: large;
+.test {
+    background-color: blue;
+    font-size: 48px;
+    font-family: "Times New Roman"
+
 }
